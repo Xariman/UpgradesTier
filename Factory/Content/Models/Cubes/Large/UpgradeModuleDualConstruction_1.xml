@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Model Name="Default">
+  <Parameter Name="Centered">false</Parameter>
+  <Parameter Name="RescaleFactor">0.01</Parameter>
+  <Parameter Name="RescaleToLengthInMeters">false</Parameter>
+  <Parameter Name="SpecularPower">10</Parameter>
+  <Parameter Name="SpecularShininess">0.8</Parameter>
+  <Material Name="Upgrades">
+    <Parameter Name="Technique">MESH</Parameter>
+    <Parameter Name="ColorMetalTexture">Textures\Models\Cubes\Upgrades_cm.dds</Parameter>
+    <Parameter Name="NormalGlossTexture">Textures\Models\Cubes\Upgrades_ng.dds</Parameter>
+    <Parameter Name="AddMapsTexture">Textures\Models\Cubes\Upgrades_add.dds</Parameter>
+  </Material>
+  <Material Name="PaintedMetal_Default">
+    <Parameter Name="Technique">MESH</Parameter>
+  </Material>
+  <MaterialRef Name="Armor_construction" />
+  <MaterialRef Name="Construction" />
+  <MaterialRef Name="Emissive1" />
+  <MaterialRef Name="Emissive0" />
+  <LOD Distance="5">
+    <Model>Models\Cubes\large\UpgradeModuleDualConstruction_1_LOD1</Model>
+  </LOD>
+</Model>

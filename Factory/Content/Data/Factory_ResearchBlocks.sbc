@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResearchBlocks>
+
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeProductivityModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffectivenessModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnergyModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffEnrgModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnrgPrdModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffEnrgModule" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+
+<!-- Tier 2 -->
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeProductivityModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffectivenessModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnergyModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffEnrgModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnrgPrdModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffEnrgModuleTier2" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+
+<!-- Tier 3 -->
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeProductivityModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffectivenessModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnergyModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffEnrgModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnrgPrdModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffEnrgModuleTier3" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+
+<!-- Tier 4 -->
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeProductivityModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffectivenessModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnergyModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffEnrgModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnrgPrdModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffEnrgModuleTier4" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+
+<!-- Tier 5 -->
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeProductivityModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffectivenessModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnergyModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffEnrgModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnrgPrdModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffEnrgModuleTier5" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+
+<!-- Tier 6 -->
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeProductivityModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffectivenessModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnergyModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEffEnrgModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargeEnrgPrdModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+    <ResearchBlock xsi:type="ResearchBlock">
+      <Id Type="MyObjectBuilder_UpgradeModuleDefinition" Subtype="LargePrdEffEnrgModuleTier6" />
+      <UnlockedByGroups>
+        <GroupSubtype>4</GroupSubtype>
+        <GroupSubtype>23</GroupSubtype>
+      </UnlockedByGroups>
+    </ResearchBlock>
+
+  </ResearchBlocks>
+</Definitions>

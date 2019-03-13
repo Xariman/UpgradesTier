@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Model Name="Default">
+  <Parameter Name="RescaleFactor">0.01</Parameter>
+  <MaterialRef Name="PaintedMetal_Colorable" />
+  <MaterialRef Name="Doodads" />
+  <MaterialRef Name="PaintedMetal_Yellow" />
+  <MaterialRef Name="PaintedMetal_Darker" />
+  <MaterialRef Name="Metal_Dull" />
+  <MaterialRef Name="Conveyor" />
+  <MaterialRef Name="Emissive0" />
+  <MaterialRef Name="PaintedMetal_VeryDark" />
+  <MaterialRef Name="Chrome" />
+  <MaterialRef Name="PaintedMetalScratched_Darker" />
+  <MaterialRef Name="Emissive1" />
+  <MaterialRef Name="RubberDry" />
+  <MaterialRef Name="LargeUpgradeEffectiveness_LOD2" />
+</Model>

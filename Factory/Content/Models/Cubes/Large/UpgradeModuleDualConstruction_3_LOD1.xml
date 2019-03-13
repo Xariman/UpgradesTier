@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Model Name="Default">
+  <Parameter Name="RescaleFactor">0.01</Parameter>
+  <MaterialRef Name="Construction" />
+</Model>

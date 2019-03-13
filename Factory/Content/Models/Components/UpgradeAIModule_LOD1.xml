@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Model Name="Default">
+  <Parameter Name="RescaleFactor">0.01</Parameter>
+  <Material Name="upgrade_ai_module_texture_lod">
+    <Parameter Name="ColorMetalTexture">Textures\Models\Component\UpgradeAIModuleLod_cm.dds</Parameter>
+    <Parameter Name="NormalGlossTexture">Textures\Models\Component\UpgradeAIModuleLod_ng.dds</Parameter>
+    <Parameter Name="AddMapsTexture">Textures\Models\Component\UpgradeAIModuleLod_add.dds</Parameter>
+  </Material>
+</Model>

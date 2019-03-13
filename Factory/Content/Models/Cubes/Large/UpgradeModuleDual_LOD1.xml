@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Model Name="Default">
+  <Parameter Name="RescaleFactor">0.01</Parameter>
+  <Material Name="Upgrades">
+    <Parameter Name="Technique">MESH</Parameter>
+    <Parameter Name="ColorMetalTexture">Textures\Models\Cubes\Upgrades_cm.dds</Parameter>
+    <Parameter Name="NormalGlossTexture">Textures\Models\Cubes\Upgrades_ng.dds</Parameter>
+    <Parameter Name="AddMapsTexture">Textures\Models\Cubes\Upgrades_add.dds</Parameter>
+  </Material>
+  <MaterialRef Name="PaintedMetal_Colorable" />
+  <MaterialRef Name="PaintedMetalScratched_Colorable" />
+  <MaterialRef Name="PaintedMetal_VeryDark" />
+  <MaterialRef Name="PaintedMetalScratched_VeryDark" />
+  <MaterialRef Name="Emissive1" />
+  <MaterialRef Name="PaintedMetal_Darker" />
+  <MaterialRef Name="PaintedMetal_Yellow" />
+  <MaterialRef Name="Conveyor" />
+  <MaterialRef Name="PaintedMetalScratched_Yellow" />
+  <MaterialRef Name="PaintedMetalScratched_Darker" />
+  <MaterialRef Name="Chrome" />
+  <MaterialRef Name="Decals" />
+  <MaterialRef Name="Emissive0" />
+  <MaterialRef Name="RubberDry" />
+  <MaterialRef Name="PanelingColorable" />
+</Model>

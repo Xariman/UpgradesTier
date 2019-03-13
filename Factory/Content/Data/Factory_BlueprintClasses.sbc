@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlueprintClassEntries>
+
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeProductivityModule" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffectivenessModule" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnergyModule" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffModule" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffEnrgModule" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnrgPrdModule" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffEnrgModule" />
+
+<!-- Tier 2 -->
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeProductivityModuleTier2" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffectivenessModuleTier2" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnergyModuleTier2" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffModuleTier2" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffEnrgModuleTier2" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnrgPrdModuleTier2" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffEnrgModuleTier2" />
+
+<!-- Tier 3 -->
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeProductivityModuleTier3" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffectivenessModuleTier3" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnergyModuleTier3" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffModuleTier3" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffEnrgModuleTier3" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnrgPrdModuleTier3" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffEnrgModuleTier3" />
+
+<!-- Tier 4 -->
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeProductivityModuleTier4" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffectivenessModuleTier4" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnergyModuleTier4" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffModuleTier4" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffEnrgModuleTier4" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnrgPrdModuleTier4" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffEnrgModuleTier4" />
+
+<!-- Tier 5 -->
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeProductivityModuleTier5" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffectivenessModuleTier5" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnergyModuleTier5" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffModuleTier5" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffEnrgModuleTier5" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnrgPrdModuleTier5" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffEnrgModuleTier5" />
+
+<!-- Tier 6 -->
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeProductivityModuleTier6" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffectivenessModuleTier6" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnergyModuleTier6" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffModuleTier6" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEffEnrgModuleTier6" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargeEnrgPrdModuleTier6" />
+  <Entry Class="LargeBlocks" BlueprintSubtypeId="UpgradeModule/LargePrdEffEnrgModuleTier6" />
+
+  <Entry Class="Components" BlueprintSubtypeId="UpgradeAIModule" />
+  <Entry Class="Components" BlueprintSubtypeId="UpgradeAIModuleDual" />
+  <Entry Class="Components" BlueprintSubtypeId="UpgradeAIModuleTriple" />
+
+  </BlueprintClassEntries>
+</Definitions>

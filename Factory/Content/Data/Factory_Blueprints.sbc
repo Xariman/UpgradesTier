@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blueprints>
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>UpgradeAIModule</SubtypeId>
+      </Id>
+      <DisplayName>Upgrade AI Module</DisplayName>
+      <Icon>Textures\GUI\Icons\Components\UpgradeAIModule.dds</Icon>
+      <Prerequisites>
+        <Item Amount="2" TypeId="Ingot" SubtypeId="Stone" />
+        <Item Amount="22.65" TypeId="Ingot" SubtypeId="Iron" />
+        <Item Amount="0.02" TypeId="Ingot" SubtypeId="Nickel" />
+        <Item Amount="0.02" TypeId="Ingot" SubtypeId="Cobalt" />
+        <Item Amount="17.75" TypeId="Ingot" SubtypeId="Silicon" />
+        <Item Amount="0.73" TypeId="Ingot" SubtypeId="Silver" />
+        <Item Amount="1.45" TypeId="Ingot" SubtypeId="Gold" />
+        <Item Amount="3.03" TypeId="Ingot" SubtypeId="Platinum" />
+        <Item Amount="0.32" TypeId="Ingot" SubtypeId="Uranium" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="UpgradeAIModule" />
+      <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
+    </Blueprint>
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>UpgradeAIModuleDual</SubtypeId>
+      </Id>
+      <DisplayName>Upgrade AI Module Dual</DisplayName>
+      <Icon>Textures\GUI\Icons\Components\UpgradeAIModuleDual.dds</Icon>
+      <Prerequisites>
+        <Item Amount="2" TypeId="Ingot" SubtypeId="Stone" />
+        <Item Amount="24.3" TypeId="Ingot" SubtypeId="Iron" />
+        <Item Amount="0.03" TypeId="Ingot" SubtypeId="Nickel" />
+        <Item Amount="0.03" TypeId="Ingot" SubtypeId="Cobalt" />
+        <Item Amount="23.5" TypeId="Ingot" SubtypeId="Silicon" />
+        <Item Amount="1.45" TypeId="Ingot" SubtypeId="Silver" />
+        <Item Amount="2.9" TypeId="Ingot" SubtypeId="Gold" />
+        <Item Amount="6.05" TypeId="Ingot" SubtypeId="Platinum" />
+        <Item Amount="0.44" TypeId="Ingot" SubtypeId="Uranium" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="UpgradeAIModuleDual" />
+      <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
+    </Blueprint>
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>UpgradeAIModuleTriple</SubtypeId>
+      </Id>
+      <DisplayName>Upgrade AI Module Triple</DisplayName>
+      <Icon>Textures\GUI\Icons\Components\UpgradeAIModuleTriple.dds</Icon>
+      <Prerequisites>
+        <Item Amount="2" TypeId="Ingot" SubtypeId="Stone" />
+        <Item Amount="27.6" TypeId="Ingot" SubtypeId="Iron" />
+        <Item Amount="0.06" TypeId="Ingot" SubtypeId="Nickel" />
+        <Item Amount="0.06" TypeId="Ingot" SubtypeId="Cobalt" />
+        <Item Amount="34.5" TypeId="Ingot" SubtypeId="Silicon" />
+        <Item Amount="2.4" TypeId="Ingot" SubtypeId="Silver" />
+        <Item Amount="4.8" TypeId="Ingot" SubtypeId="Gold" />
+        <Item Amount="9.6" TypeId="Ingot" SubtypeId="Platinum" />
+        <Item Amount="0.68" TypeId="Ingot" SubtypeId="Uranium" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="UpgradeAIModuleTriple" />
+      <BaseProductionTimeInSeconds>45</BaseProductionTimeInSeconds>
+    </Blueprint>
+  </Blueprints>
+</Definitions>
